@@ -1,0 +1,135 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Bold
+FamilyName:Adobe Caslon Pro
+StyleName:Bold
+FullName:Adobe Caslon Pro Bold
+MenuName:Adobe Caslon Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\ACaslonPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:143368
+FileModTime:1327621082
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-BoldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Bold Italic
+FullName:Adobe Caslon Pro Bold Italic
+MenuName:Adobe Caslon Pro Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\ACaslonPro-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:170288
+FileModTime:1327621082
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Italic
+FamilyName:Adobe Caslon Pro
+StyleName:Italic
+FullName:Adobe Caslon Pro Italic
+MenuName:Adobe Caslon Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\ACaslonPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:169976
+FileModTime:1327621082
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+FullName:Adobe Caslon Pro
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:167536
+FileModTime:1327621082
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Semibold
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold
+FullName:Adobe Caslon Pro Semibold
+MenuName:Adobe Caslon Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\ACaslonPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:170816
+FileModTime:1327621082
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Personal files\Janet\College\Portfolio\Calendar Final\JYoderCalendar Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329333320
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
